@@ -1,0 +1,4 @@
+runtime: nodejs12
+
+readiness_check:
+  app_start_timeout_sec: 5000
