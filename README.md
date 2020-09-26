@@ -1,9 +1,9 @@
 # NodeJs-FCM-Notification-Server
 
 [![N|Solid](https://alamgirqazi.github.io/tech-blog/static/a717eafa290bf333c4dd1c86076c5b9e/f570d/node-js.png)](https://nodejs.org/en/)
-[![N|Solid](https://miro.medium.com/max/1024/1*xP2U5u21teQMEZ7NFzC-Hw.png)](https://nodejs.org/en/)
+[![N|Solid](https://miro.medium.com/max/1024/1*xP2U5u21teQMEZ7NFzC-Hw.png)]()
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
 NodeJs Express Server connected with Firebase Admin Service Account and Firebase Cloud Messaging (FCM) service having Rest APIs- .
 
